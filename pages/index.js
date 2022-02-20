@@ -17,6 +17,7 @@ export default function Index({ posts, globalData }) {
         <h1 className="text-3xl lg:text-5xl text-center mb-12">
           Teja I love you!...
         </h1>
+       </main>
     </Layout>
   );
 }
